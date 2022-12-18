@@ -2,9 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Product {
-
     private final String name;
-
     private final double price;
     private final int quantity;
     public Product(String name, double price, int quantity) {
